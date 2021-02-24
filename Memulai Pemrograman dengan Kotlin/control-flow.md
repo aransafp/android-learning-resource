@@ -87,6 +87,7 @@ while(angka < 1000){
     if(angka % 2 == 0){
         println(angka)
     }
+    angka++
 }
 
 //output
