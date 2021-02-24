@@ -20,7 +20,7 @@ Selamat datang di android learning resource(**ALR**). **ALR** merupakan **reposi
   * Control Flow
   * Data Class dan Collections
   * Functional Programming
-  * [Object Oriented Programming](https://github.com/aransafp/android-learning-resource/blob/main/Memulai%20Pemrograman%20Dengan%20Kotlin/OOP.md)
+  * [Object Oriented Programming](https://github.com/aransafp/android-learning-resource/blob/main/Memulai%20Pemrograman%20dengan%20Kotlin/OOP.md)
   * Generics
   * Coroutines
 * Belajar Prinsip Pemrograman S.O.L.I.D.
