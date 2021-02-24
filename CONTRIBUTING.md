@@ -10,5 +10,4 @@
 kalian bisa menulis **ide** di [Issues](https://github.com/aransafp/android-learning-resource/issues)
 
 ## Bagaimana caranya berkontribusi ?
-
 kalian bisa belajar di [Cara Berkontribusi](https://www.petanikode.com/github-workflow/)
