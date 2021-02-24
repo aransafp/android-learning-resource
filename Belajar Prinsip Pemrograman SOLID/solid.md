@@ -11,7 +11,7 @@ Pada materi kali ini, kita akan mempelajari tentang SOLID, merupakan sebuah pedo
 g
 * [Dicoding SOLID](https://www.dicoding.com/academies/169/tutorials/7805)
 
-### Challange
+### Challenge
 
 ![Tes](https://miro.medium.com/max/2382/1*XOMTPWTpDLypkp079p9XXg.png)
 
