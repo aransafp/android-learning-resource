@@ -13,11 +13,11 @@ Pada materi kali ini, kita akan mempelajari tentang OOP, yaitu cara menulis kode
 
   Untuk **membiasakan** penggunaan *syntax* maupun meningkatkan pemahaman pembuatan terkait OOP, kalian bisa membuat implementasi dari beberapa diagram diatas. Tidak harus semuanya, minimal kalian menerapkan 1 diagram dari masing-masing subbab. misalkan: 1 diagram materi classes, 1 diagram materi interface, 1 diagram materi abstract.
 
-### Challange
+### Challenge
 
 ![Tes](https://www3.ntu.edu.sg/home/ehchua/programming/java/images/ExerciseOOP_ShapeAbstract.png)
 
-Buatlah program berdasarkan diagram diatas
+Buatlah program berdasarkan diagram diatas.
 
 ### Materi tambahan
 * [Playlist Belajar OOP Kotlin](https://www.youtube.com/watch?v=QlmMEagRNnA&list=PL-CtdCApEFH8lHOsi7kIDxK57WWLmzVog)
