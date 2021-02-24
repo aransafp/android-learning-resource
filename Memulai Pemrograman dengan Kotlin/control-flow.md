@@ -6,6 +6,7 @@ Dalam modul ini akan dibahas apa itu Control Flow dan Macam Macamnya pada Bahasa
 - [Apa itu Control Flow?](#apa-itu-control-flow)
 - [Macam - Macam Control Flow](#macam-control-flow)
     - [When Expression](#when-expression)
+    - [For Loop](#for-loop)
 ## Materi
 
 ### Apa Itu Control Flow?
@@ -49,3 +50,27 @@ when(nilai) {
     else -> print("error")
 }
 ```
+>Sumber: https://kotlinlang.org/docs/control-flow.html#when-expression
+
+
+#### For Loops<a id="for-loop"></a>
+
+Perulangan for adalah suatu konsep untuk melakukan perulangan eksekusi kode program sehingga kita tidak perlu menulis program berulang kali
+```kotlin
+for(i in 1..10){
+    println(i)
+}
+
+//output
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+```
+Kode diatas akan menjalankan semua yang ada di dalam *curly braces* sebanyak 10 kali. Angka 10 kali di dapat dari kode ```i in 1..10``` yang berarti *i dalam rentang 1 hingga 10*. Awalnya program akan membuat variable ```i``` dengan nilai awal 1. Pada setiap iterasi terjadi, nilai variable i akan bertambah 1 hingga 10. Ketika ```i``` sudah mencapai nilai 10, maka perulangan selesai
