@@ -23,7 +23,7 @@ Selamat datang di android learning resource(**ALR**). **ALR** merupakan reposito
   * Generics
   * Coroutines
 * Belajar Prinsip Pemrograman S.O.L.I.D.
-  * Prinsip S.O.L.I.D.
+  * [Prinsip S.O.L.I.D.](https://github.com/aransafp/android-learning-resource/blob/development/Belajar%20Prinsip%20Pemrograman%20SOLID/solid.md)
 * Belajar Membuat Aplikasi Android untuk Pemula
 * Belajar Fundamental Aplikasi Android
 * Belajar Android Jetpack Pro
