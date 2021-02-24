@@ -2,11 +2,12 @@
 ![bangkit_logo](https://www.dicoding.com/img/bangkit/logo.svg)
 
 ## Introduction
-Selamat datang di android learning resource(**ALR**). **ALR** merupakan repositori sumber belajar android yang ditujukan untuk membantu para programmer yang sedang belajar android terutama **peserta Bangkit**.
+Selamat datang di android learning resource(**ALR**). **ALR** merupakan **repositori sumber belajar android**  yang ditujukan **untuk membantu**  para programmer yang sedang belajar android terutama **peserta Bangkit**.
 
 ## Short Term Goals
 * Membantu peserta bangkit memahami materi. 
 * Mendorong peserta bangkit untuk mulai berkontribusi di open source project, mulai dari kontribusi di **ALR**.
+* Melatih belajar melalui berbagai sumber.
 
 ## Long Term Goals
 * Melengkapi repositori sampai materi **MADE** yang lengkap dan mudah digunakan.
