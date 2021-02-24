@@ -7,6 +7,7 @@ Dalam modul ini akan dibahas apa itu Control Flow dan Macam Macamnya pada Bahasa
 - [Macam - Macam Control Flow](#macam-control-flow)
     - [When Expression](#when-expression)
     - [For Loop](#for-loop)
+    - [While Loop](#while-loop)
 ## Materi
 
 ### Apa Itu Control Flow?
@@ -74,3 +75,41 @@ for(i in 1..10){
 10
 ```
 Kode diatas akan menjalankan semua yang ada di dalam *curly braces* sebanyak 10 kali. Angka 10 kali di dapat dari kode ```i in 1..10``` yang berarti *i dalam rentang 1 hingga 10*. Awalnya program akan membuat variable ```i``` dengan nilai awal 1. Pada setiap iterasi terjadi, nilai variable i akan bertambah 1 hingga 10. Ketika ```i``` sudah mencapai nilai 10, maka perulangan selesai
+
+> Sumber: https://kotlinlang.org/docs/control-flow.html#for-loops
+
+
+### While Loop
+Jika kita melihat pada [For Loop](#for-loop), kita akan mengetahui bahwa perulangan tersebut sudah kita tentukan seberapa banyak perulangan akan dilakukan. Lalu bagaimana jika ingin membuat perulangan namun kita tidak tahu berapa banyak perulangan tersebut akan dilakukan? Kita dapat menggunakan while loop untuk mengatasi hal itu. Mari kita lihat kode dibawah
+```kotlin
+val angka = 1
+while(angka < 1000){
+    if(angka % 2 == 0){
+        println(angka)
+    }
+}
+
+//output
+2
+4
+6
+..
+..
+..
+998
+````
+Kode diatas adalah kode untuk mencetak seluruh angka genap dari 1 hingga 1000. Anggap saja kita tidak tahu berapa banyak angka genap diantara 1 dan 1000, sehingga kita butuh while loop untuk melakukannya. Kode didalam **Curly Braces** akan berjalan selama kondisi ```angka < 1000``` terpenuhi.
+
+Terdapat 1 varian dari while yaitu ```do...while...``` yang artinya *Lakukan ... selama ...*. Hampir serupa dengan ```while```. ```do ... while ...``` akan menjalankan kode di dalam *curly braces* minimal sekali, lalu memeriksa kondisi. Mari kita lihat kode dibawah:
+```kotlin
+val x = 11
+
+do {
+    println("x dicetak")
+} while(x <= 10)
+
+//Output
+x dicetak
+```
+pada kode diatas, meskipun kondisi ``` x <= 10``` bernilai false namun kode di dalam *curly braces* tetap tetap di eksekusi karena program berjalan dari atas ke bawah sehingga perintah di dalam ```do{}``` di jalankan
+> Sumber: https://kotlinlang.org/docs/control-flow.html#while-loops
