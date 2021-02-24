@@ -16,7 +16,7 @@ Selamat datang di android learning resource(**ALR**). **ALR** merupakan **reposi
 ## Table of Contents
 
 * Memulai Pemrograman Dengan Kotlin
-  * Kotlin Fundamental
+  * [Kotlin Fundamental](Memulai%20Pemrograman%20dengan%20Kotlin/kotlin-fundamental.md)
   * [Control Flow](Memulai%20Pemrograman%20dengan%20Kotlin/control-flow.md)
   * Data Class dan Collections
   * Functional Programming
