@@ -31,6 +31,4 @@ Selamat datang di android learning resource(**ALR**). **ALR** merupakan **reposi
 * Menjadi Android Developer Expert
 
 ## Contribution
-
-* [Apa yang bisa kalian kontribusikan ?](https://github.com/aransafp/android-learning-resource/blob/main/CONTRIBUTING.md)
-* [**Cara berkontribusi di Github**](https://www.petanikode.com/github-workflow/)
+Jika kamu berminat untuk kontribusi kepada repositori ini. Kamu bisa mengikuti [Tata Cara Melakukan Kontribusi](CONTRIBUTE.md)

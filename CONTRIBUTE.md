@@ -1,4 +1,4 @@
-## Apa yang bisa kalian kontribusikan ?
+## Apa yang bisa kalian kontribusikan ? ❤️
 
 - Ide apapun
 - Gambar, bahkan emoji, sehingga repositori ini dapat terlihat lebih menarik dan bagus lagi
@@ -22,3 +22,8 @@ Berikut tutorial kontribusi kedalam repositori ini:
 5. Commit dan Push kontribusi kamu ke repositori kamu
 6. Lakukan pull request ke repositori ini
 7. Selesai 🐙
+
+## Baca Aku 🦊
+Jika teman teman bingung dalam melakukan kontribusi, teman teman bisa meniru format penulisan dari materi yang sudah ada sebelumnya.
+
+Disarankan untuk mengikuti format yang ada ya teman teman, agar repositori ini bagus dan tertata
