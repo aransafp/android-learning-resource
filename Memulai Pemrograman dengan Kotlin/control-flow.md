@@ -10,7 +10,7 @@ Dalam modul ini akan dibahas apa itu Control Flow dan Macam Macamnya pada Bahasa
     - [While Loop](#while-loop)
 ## Materi
 
-### Apa Itu Control Flow?
+### Apa Itu Control Flow?<a id="apa-itu-control-flow"></a>
 Control Flow adalah mekanisme pengaturan proses berjalannya eksekusi kode program berdasarkan kondisi yang terjadi. Kita seringkali menemui percabangan di dalam program seperti
 
 > *Jika kondisi **ini** bernilai **true** maka jalankan kode **ini**, jika bernilai **false** maka jalankan kode **itu***
